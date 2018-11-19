@@ -1,5 +1,5 @@
 from nn import *
-from xorTrainingData import *
+from TrainingData import *
 
 from mpl_toolkits import mplot3d
 import matplotlib.pyplot as plt
